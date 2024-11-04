@@ -1,0 +1,28 @@
+.App-header {
+  background-color: #ffffff;
+  min-height: 100vh;
+  display: flex;
+  font-size: calc(10px + 2vmin);
+
+}
+.items{
+  display: flex;
+}
+.navbars {
+  background-color: none;
+  overflow: hidden;
+  scroll-behavior: smooth;
+  background-color: #666;
+
+}
+.koteret{
+  font-size: xx-large;
+}
+body{
+  text-align: center;
+  color: #4d1f1f;
+  font-size: xx-large;
+}
+.navbarotef{
+  color: #4d1f1f;
+}
